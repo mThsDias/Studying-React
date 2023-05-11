@@ -1,0 +1,11 @@
+.divConteiner {
+    border: 1px solid orange;
+    padding: 5px 10px;
+    border-radius: 16px;
+    margin: 100px; 
+}
+
+.txt {
+    font-size: 1.5rem;
+    color: orange;
+}
