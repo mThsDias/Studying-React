@@ -7,8 +7,14 @@ import List from './components/List';
 import Evento from './components/Evento';
 import Form from './components/Form';
 
+function App() {
+  return(
+    <Form />
+  )
+}
 
 
+/*
 function App() {
 
   return (
@@ -22,7 +28,6 @@ function App() {
     </div>
   )
 
-  /*
   const name = 'Matheus'
   const newName = name.toUpperCase()
   const age = 23
@@ -49,7 +54,7 @@ function App() {
       />
     </div>
   );
-  */
 }
+*/
 
 export default App;

@@ -1,0 +1,68 @@
+.divConteiner {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 100px;
+    width: 100%;
+    max-width: 350px;
+    min-height: 35vh;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px black;
+    background-color: #353B51;
+}
+
+.textH1 {
+    color: #ffffff;
+    margin-left: 60px;
+    background-color: #353B51;
+}
+
+.divForm {
+    margin-left: 60px;
+    margin-top: 30px;
+}
+
+.divItem1 {
+    background-color: #353B51;
+}
+
+.divItem1 input {
+    background: #ffffff;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 1.1rem;
+}
+
+.divItem2 {
+    background-color: #353B51;
+    padding-top: 10px;
+}
+
+.divItem2 input {
+    background: #ffffff;
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 1.1rem;
+}
+
+.divItem3 {
+    background-color: #353B51;
+    padding-top: 25px;
+}
+
+.divItem3 input {
+    background: #ffffff;
+    border: transparent;
+    border-radius: 10px;
+    padding: 10px 15px;
+    font-size: 1.1rem;
+}
+
+.divItem3 input:hover {
+    transition: .1s;
+    cursor: pointer;
+    border: 1px solid white;
+    background: #6a76a5;
+}

@@ -1,8 +1,8 @@
+// Aula 3
+
 // Usanddo deconstruction para que o codígo não fique repetitivo, usando 'PROPS'.
 
-
-
-
+/*
 function Pessoa ({name, age, profession}) {
     return (
         <div>
@@ -15,3 +15,4 @@ function Pessoa ({name, age, profession}) {
 }
 
 export default Pessoa 
+*/

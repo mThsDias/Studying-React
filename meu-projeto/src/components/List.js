@@ -1,4 +1,8 @@
+//Aula 2
+
 // Aprendendo sobre props avançado
+
+/*
 import PropTypes from 'prop-types'
 import App from "../App";
 
@@ -23,3 +27,4 @@ List.defaultProps = {
 }
 
 export default List;
+*/

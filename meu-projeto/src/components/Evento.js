@@ -1,3 +1,7 @@
+// Aula 5
+
+
+/* 
 function Evento() {
 
     function meuEvento () {
@@ -14,3 +18,4 @@ function Evento() {
 
 
 export default Evento
+*/
